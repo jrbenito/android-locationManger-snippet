@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Waiting for location information...</string>
+    <string name="hello">Waiting for location information&#8230;</string>
     <string name="app_name">LocationTest</string>
 
 </resources>
